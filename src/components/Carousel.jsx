@@ -9,7 +9,7 @@ import img6 from '../assets/finalimg5.jpg';
 import img7 from '../assets/finalimg4.jpg';
 import img8 from '../assets/finalimg3.jpg';
 import img9 from '../assets/finalimg2.jpg';
-import img10 from '../assets/finalimg1.jpg';
+import img10 from '../assets/finalImg1.jpg';
 import "./Carousel.css";
 import Title from './Title';
 const Carousel = () => {
